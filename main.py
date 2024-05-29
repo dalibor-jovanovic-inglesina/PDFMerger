@@ -1,10 +1,10 @@
 import sys
-from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLineEdit, QFileDialog, QHBoxLayout, QLabel, QMessageBox, QDialog, QStyleFactory
-from PyQt6.QtGui import QColor
-from PyPDF2 import PdfMerger
-from PyQt6.QtCore import QThread, pyqtSignal
 import os
 import time
+from PyPDF2 import PdfMerger
+from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLineEdit, QFileDialog, QHBoxLayout, QLabel, QMessageBox, QDialog, QStyleFactory
+from PyQt6.QtGui import QColor
+from PyQt6.QtCore import QThread, pyqtSignal
 
 class MergeThread(QThread):
     started = pyqtSignal()
