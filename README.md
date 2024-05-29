@@ -2,7 +2,10 @@
 An application to merge multipe pdf files in a single one. This get handy when you need to print multiple pdf files that has a lot of pages and don't have some paid applications.
 
 # Requirements
-This application, to run, requires: PyPDF2, PyQt6, PyQt6_sip. Use the command python -m pip install -r requirements.txt to get the needed libraries.
+This application, to run, requires: PyPDF2, PyQt6, PyQt6_sip.
+Use the command:
+python -m pip install -r requirements.txt
+to get the needed libraries.
 
 # Execution
 You can execute the application with pyhton3 main.py.
