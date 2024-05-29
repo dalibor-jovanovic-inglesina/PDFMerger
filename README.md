@@ -1,13 +1,13 @@
-# PDFMerger
-An application to merge multipe pdf files in a single one. This get handy when you need to print multiple pdf files that has a lot of pages and don't have some paid application
+# PDF Merger
+An application to merge multipe pdf files in a single one. This get handy when you need to print multiple pdf files that has a lot of pages and don't have some paid applications.
 
-# REQUIREMENTS
-This application, to run, requires: PyPDF2, PyQt6, PyQt6_sip.use the command python -m pip install -r requirements.txt to get the needed libraries.
+# Requirements
+This application, to run, requires: PyPDF2, PyQt6, PyQt6_sip. Use the command python -m pip install -r requirements.txt to get the needed libraries.
 
-# EXECUTION
-You can execute the application with pyhton3 main.py
+# Execution
+You can execute the application with pyhton3 main.py.
 
-# COMPILE FOR WINDOWS
+# Compile For Windows
 You can compile this program with pyinstaller.
 
 Install pyinstaller with pip: 
