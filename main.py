@@ -209,4 +209,3 @@ if __name__ == '__main__':
     pdf_merger_app.show()
 
     sys.exit(app.exec())
-
