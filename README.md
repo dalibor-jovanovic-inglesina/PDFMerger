@@ -1,5 +1,5 @@
 # PDF Merger
-An application to merge multipe pdf files in a single one. This get handy when you need to print multiple pdf files that has a lot of pages and don't have some paid applications.
+An application to merge multipe pdf files in a single one. This get handy when you need to print multiple pdf files that has a lot of pages and don't have some paid applications to merge all the files and don't want to use web applications for privacy reasons.
 
 # Requirements
 This application, to run, requires: PyPDF2, PyQt6, PyQt6_sip.\
